@@ -1,0 +1,81 @@
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Release\system.data.oracleclient.dll
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.ingreso.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.menuprin.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.Resources.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.personal.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.usuarios.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.vbproj.GenerateResource.Cache
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\bin\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\bin\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\bin\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\bin\Release\system.data.oracleclient.dll
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.ingreso.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.menuprin.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.Resources.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.personal.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.usuarios.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.vbproj.GenerateResource.Cache
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Desktop\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.vbprojResolveAssemblyReference.cache
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\bin\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\bin\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\bin\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\bin\Release\system.data.oracleclient.dll
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.ingreso.resources
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.menuprin.resources
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.Resources.resources
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.personal.resources
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.usuarios.resources
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.vbproj.GenerateResource.Cache
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\planilla.pdb
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\system.data.oracleclient.dll
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.ingreso.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.menuprin.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.Resources.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.personal.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.usuarios.resources
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.vbproj.GenerateResource.Cache
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.exe
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.xml
+C:\Users\TSE SISTEMAS\Desktop\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.pdb
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\planilla.exe
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\planilla.pdb
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\planilla.xml
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\bin\Release\system.data.oracleclient.dll
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\ResolveAssemblyReference.cache
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.ingreso.resources
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.menuprin.resources
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.Resources.resources
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.personal.resources
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.usuarios.resources
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\GenerateResource.read.1.tlog
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\GenerateResource.write.1.tlog
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.exe
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.xml
+F:\VY\Sources\Respaldo ESalvador\FuentesApp\OtrosAnteriores\PAGOSJRV VERSION 14_03_2018\planilla\planilla\obj\x86\Release\planilla.pdb
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\bin\Release\planilla.exe
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\bin\Release\planilla.pdb
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\bin\Release\planilla.xml
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\bin\Release\system.data.oracleclient.dll
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.ingreso.resources
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.menuprin.resources
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.Resources.resources
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.personal.resources
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.usuarios.resources
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.vbproj.GenerateResource.Cache
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.exe
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.xml
+C:\Users\RFID\Documents\Visual Studio 2010\Projects\PAGOSJRV2018SV\planilla\planilla\obj\x86\Release\planilla.pdb

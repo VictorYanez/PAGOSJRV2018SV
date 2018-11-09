@@ -1,0 +1,1 @@
+En esta actualizacion agregue para que validara el estado de la imagen menor que 2 y que verificara el dui del usuario antes de ingresarlo

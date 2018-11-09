@@ -1,0 +1,17 @@
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Debug\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Debug\planilla.pdb
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Debug\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.ingreso.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.Resources.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.usuarios.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.vbproj.GenerateResource.Cache
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.pdb
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.personal.resources
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\bin\Debug\system.data.oracleclient.dll
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.vbprojResolveAssemblyReference.cache
+C:\Users\TSE SISTEMAS\Documents\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.menuprin.resources
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.exe
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.xml
+C:\Users\TSE SISTEMAS\Documents\PAGOOS\proyectopagos\planilla\planilla\obj\x86\Debug\planilla.pdb
